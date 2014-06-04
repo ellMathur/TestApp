@@ -121,4 +121,7 @@
   <data name="circular_hon_logo-copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\circular_hon_logo-copy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="one yoga new logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\one yoga new logo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>
