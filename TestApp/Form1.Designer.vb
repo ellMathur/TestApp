@@ -37,7 +37,7 @@ Partial Class Form_Login
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(94, 21)
         Me.Button1.TabIndex = 0
-        Me.Button1.Text = "KD"
+        Me.Button1.Text = "Login"
         Me.Button1.UseVisualStyleBackColor = True
         '
         'Label1
